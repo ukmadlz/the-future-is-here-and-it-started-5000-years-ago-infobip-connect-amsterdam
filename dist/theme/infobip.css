@@ -385,20 +385,20 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   color: #FFF;
 }
 
-.reveal #bio {
+.reveal #bio, .reveal .bio {
   text-align: left;
 }
-.reveal #bio img {
+.reveal #bio img, .reveal .bio img {
   float: left;
   width: 40%;
 }
-.reveal #bio .info {
+.reveal #bio .info, .reveal .bio .info {
   padding-top: 10%;
 }
-.reveal #bio .info h1 {
+.reveal #bio .info h1, .reveal .bio .info h1 {
   color: #0C1B2C;
 }
-.reveal #bio .info h1 .orange {
+.reveal #bio .info h1 .orange, .reveal .bio .info h1 .orange {
   color: #FC6422;
 }
 
